@@ -11,6 +11,8 @@
   </a>
 </div>
 
+### Stack
+
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nestjs,react,cs,dotnet,py,docker,kubernetes,aws" />
