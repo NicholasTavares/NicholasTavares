@@ -4,12 +4,12 @@
 - 🌱 Currently working with Node(NestJS), ReactJS, C# and .NET
 - 🎮 Game lover
 
-<div style="display: inline-block">
-  <a https://github.com/NicholasTavares>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicholasTavares&count_private=true&show_icons=true&theme=aura"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasTavares&layout=compact&theme=aura" />
+<p align="left">
+  <a href="https://github.com/NicholasTavares">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicholasTavares&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicholasTavares&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
   </a>
-</div>
+</p>
 
 ### Stack
 
