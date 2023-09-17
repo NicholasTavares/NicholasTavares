@@ -1,7 +1,7 @@
 ## Hello! My name is Nicholas Balby Tavares. Welcome to my profile.
 
 - 💻 Full Stack Developer
-- 🌱 Currently working with Node(NestJS), ReactJS, C# and Go
+- 🌱 Currently working with Node(NestJS), ReactJS and Go
 - 🎮 Game lover
 
 <p align="left">
@@ -15,7 +15,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,react,go,cs,dotnet,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,react,go,docker,kubernetes,aws" />
   </a>
 </div>
 
