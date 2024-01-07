@@ -15,7 +15,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,go,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=cs,ts,go,docker,kubernetes,aws,azure" />
   </a>
 </div>
 
