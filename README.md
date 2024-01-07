@@ -1,7 +1,7 @@
 ## Hello! My name is Nicholas Balby Tavares. Welcome to my profile.
 
 - 💻 Full Stack Developer
-- 🌱 Currently working with Node(NestJS), ReactJS and Go
+- 🌱 Currently working with C#/.NET, Go and Node
 - 🎮 Game lover
 
 <p align="left">
