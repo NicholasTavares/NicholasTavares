@@ -1,4 +1,4 @@
-## Hello! My name is Nicholas Balby. Welcome to my profile.
+## Hello! My name is Nicholas Balby Tavares. Welcome to my profile.
 
 - 💻 Software Developer
 - 🌱 Currently working with Java, Node and Google Cloud Platform
