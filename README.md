@@ -1,7 +1,8 @@
 ## Hello! My name is Nicholas Balby Tavares. Welcome to my profile.
 
-- 💻 Software Developer
-- 🌱 Currently working with Java, Node and Google Cloud Platform
+- 💻 Software Developer and Cloud Engineer
+- 🌱 Currently working with Node, Python and Google Cloud Platform
+- Google Cloud Certified
 - 🎮 Game lover
 
 <p align="left">
@@ -15,7 +16,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,docker,kubernetes,gcp,aws" />
+    <img src="https://skillicons.dev/icons?i=ai,py,ts,nodejs,docker,kubernetes,gcp,aws" />
   </a>
 </div>
 
