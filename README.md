@@ -2,7 +2,7 @@
 
 - 💻 Software Developer and Cloud Engineer
 - 🌱 Currently working with Node, Python and Google Cloud Platform
-- Google Cloud Certified
+- 📝 Google Cloud Certified
 - 🎮 Game lover
 
 <p align="left">
